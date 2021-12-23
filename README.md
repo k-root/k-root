@@ -29,23 +29,26 @@
   </span> 
 </div>
 
+<div>
 
 ## Github Personal Repos Stats 📈
-<p>
-  <img align="left" width="46%" src="http://github-readme-streak-stats.herokuapp.com?user=k-root&theme=dark&date_format=M%20j%5B%2C%20Y%5D"><!-- Streak card-->
-  <img align="right" width="45%" height = "200" src="https://github-readme-stats.vercel.app/api?username=k-root&show_icons=true&theme=dark&show_icons=true&count_private=true&hide=contribs"><!--   stats card -->
-</p>
-<!-- <br>
-
-  ## Languages
+  <p align="center">
+    <img align="left" width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=k-root&theme=dark&date_format=M%20j%5B%2C%20Y%5D"><!-- Streak card-->
+    <img width="47%" height = "220" src="https://github-readme-stats.vercel.app/api?username=k-root&show_icons=true&theme=dark&show_icons=true&count_private=true&hide=contribs"><!--   stats card -->
+  </p>
+</div>
+<div>
+  
+## Languages
  
-  <!--   top langs card -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-root&layout=compact">  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-root&layout=compact">  
+</div>
 
-
-<p>
+<div>
+  
+  ## Contribution
   <!--   activity graph card -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=k-root&theme=dracula" width="480" height="360"></img>
-</p>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=k-root&theme=dracula"></img>
+</div>
 
 
