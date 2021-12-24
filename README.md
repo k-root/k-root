@@ -1,5 +1,5 @@
 
-<img align="center" width="1200" height="300" src="BannerKaushik.png">
+<img align="center" width="1200" height="300" src="assets/BannerKaushik.png">
 <p align="center">
   <!--   dynamic type header -->
       <img src="https://readme-typing-svg.herokuapp.com/?%20font=Josefin+Sans&color=%237267CB&size=27&center=true&vCenter=true&width=500&height=75&lines=Senior+Data+Engineer;Google+Cloud+Platform+expertise;Web+App+Developer;2.5%2B+yrs+of+Industry+experience;Production+grade+implementations;Always+ready+to+learn!">
@@ -16,7 +16,7 @@
 <hr>
 <div>
   <!--   coder gif -->
-  <img align="right" src="coder_gif_3.gif" width="260"></img>
+  <img align="right" src="assets/coder_gif_3.gif" width="260"></img>
   <span align="left">
       <li> Hello world! I’m @k-root.</li>
       <li> Senior Data Engineer with 2.5+ years experience.</li>
