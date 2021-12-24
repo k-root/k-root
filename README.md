@@ -1,5 +1,5 @@
 
-<img align="center" width="1200" height="300" src="assets/BannerKaushik1.png">
+<img align="center" width="1200" height="300" src="assets/BannerKaushik2.png">
 <p align="center">
   <!--   dynamic type header -->
       <img src="https://readme-typing-svg.herokuapp.com/?%20font=Josefin+Sans&color=%237267CB&size=27&center=true&vCenter=true&width=500&height=75&lines=Senior+Data+Engineer;Google+Cloud+Platform+expertise;Web+App+Developer;2.5%2B+yrs+of+Industry+experience;Production+grade+implementations;Always+ready+to+learn!">
