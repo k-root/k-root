@@ -24,7 +24,7 @@
       <li> Currently Leading and contributing towards multiple projects and teams.</li>
       <li> Active involvement in training colleagues for Google Cloud Certifications.</li>
       <li> Research through latest releases and technologies</li>
-      <li> My latest resume attached <a href="assets/resume.pdf">here</a></li>
+      <li> My latest resume attached <a href="assets/resume1.pdf">here</a></li>
   </span>
   <span align="right">
   </span> 
