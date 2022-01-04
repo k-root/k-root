@@ -110,5 +110,5 @@
 
 <hr>
 <p align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=k-root">
+<img align="center" src="https://komarev.com/ghpvc/?username=k-root" alt="Broken image? Please Refresh. Might be cold start from Heroku.">
 </p>
