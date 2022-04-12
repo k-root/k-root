@@ -19,7 +19,7 @@
   <img align="right" src="assets/coder_gif_3.gif" width="260"></img>
   <span align="left">
       <li> Hello world! I’m @k-root.</li>
-      <li> Senior Data Engineer with 2.5+ years experience.</li>
+      <li> Senior Data Engineer with 3+ years experience.</li>
       <li> I’m currently gaining expertise in Cloud Technologies, focusing on GCP</li>
       <li> Currently Leading and contributing towards multiple projects and teams.</li>
       <li> Active involvement in training colleagues for Google Cloud Certifications.</li>
